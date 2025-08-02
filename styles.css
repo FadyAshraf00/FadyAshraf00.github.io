@@ -43,6 +43,11 @@ a{
   background-color: #2e2e2e;
   border-radius: 6px;
 }
+.dark-mode h2 {
+  color: #e0e0e0;
+  background-color: #2e2e2e;
+  border-radius: 6px;
+}
 .dark-mode body {
   background-color: #2e2e2e;
 }
